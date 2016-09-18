@@ -1,0 +1,9 @@
+\ProvidesFile{gloss-belarusian.ldf}[Polyglossia: module for Belarusian v0.1 2016/09/18]
+\PolyglossiaSetup{belarusian}{%
+  script=Cyrillic,
+  scripttag=cyrl,
+  fontsetup=true,
+  hyphennames={belarusian},
+  direction=LR
+}
+\endinput
