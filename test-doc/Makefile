@@ -10,3 +10,6 @@ document.t2a.pdf: document.t2a.tex
 
 document.pdf: document.tex
 		xelatex $<
+
+document-arthur.pdf: document-arthur.tex
+	xelatex $<
