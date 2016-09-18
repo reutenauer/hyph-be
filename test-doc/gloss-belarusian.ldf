@@ -4,6 +4,7 @@
   scripttag=cyrl,
   fontsetup=true,
   hyphennames={belarusian},
+  hyphenmins={2,2},
   direction=LR
 }
 \endinput
